@@ -1,0 +1,14 @@
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\bin\Debug\net10.0\vvvvvvvvvv.exe
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\bin\Debug\net10.0\vvvvvvvvvv.deps.json
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\bin\Debug\net10.0\vvvvvvvvvv.runtimeconfig.json
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\bin\Debug\net10.0\vvvvvvvvvv.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\bin\Debug\net10.0\vvvvvvvvvv.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\obj\Debug\net10.0\vvvvvvvvvv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\obj\Debug\net10.0\vvvvvvvvvv.AssemblyInfoInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\obj\Debug\net10.0\vvvvvvvvvv.AssemblyInfo.cs
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\obj\Debug\net10.0\vvvvvvvvvv.csproj.CoreCompileInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\obj\Debug\net10.0\vvvvvvvvvv.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\obj\Debug\net10.0\refint\vvvvvvvvvv.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\obj\Debug\net10.0\vvvvvvvvvv.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\obj\Debug\net10.0\vvvvvvvvvv.genruntimeconfig.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\vvvvvvvvvv\obj\Debug\net10.0\ref\vvvvvvvvvv.dll
